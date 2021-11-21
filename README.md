@@ -6,6 +6,9 @@ Aqui estamos falando apenas de uso.
 ### Shareware / Sofware Gratuito Limitado
 Aplicação que possui uso gratuito limitado. Exemplo: gratuito para um período de testes.
 
+### AdWare
+Aplicação que possui uso gratuito ilimitado, porém deve aceitar as propagandas existentes enquanto usando o plano gratuito. Para remover as propagandas é necessário assinar um plano.
+
 ### Software Proprietário
 Aplicação totalmente privada, onde qualquer cópia, alteração e/ou distribuição são totalmente proibidos.
 
