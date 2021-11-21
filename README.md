@@ -14,7 +14,7 @@ Um software que não precisa ser instalado. Ele é oferecido como um serviço. O
 
 ### Software Livre
 Aplicação onde é permitida alterar o código fonte e redistribuir. Neste tipo de licença o software, mesmo que alterado e redistribuído, deve permancer livre
-e podendo ser alterado por outros usuários.  
+e podendo ser alterado por outros usuários. Geralmente só requerem que os direitos autorais sejam mantidos.
 Licenças:
 - GNU
 - GPL
