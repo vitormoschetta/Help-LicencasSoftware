@@ -1,4 +1,3 @@
-# Help-LicencasSoftware
 
 ### Freeware / Software Gratuito
 Aplicação que possui uso gratuito ilimitado e por tempo indeterminado. Isso não significa que ele é de código aberto ou que pode ser redistribuído. 
